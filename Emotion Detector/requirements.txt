@@ -1,0 +1,4 @@
+opencv2
+deepface
+datetime
+tf-keras
